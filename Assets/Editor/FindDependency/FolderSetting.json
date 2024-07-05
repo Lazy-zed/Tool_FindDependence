@@ -1,0 +1,7 @@
+{
+	"fileLimitMax":30,
+	"fileClearCount":10,
+	"pathList":[
+		"Assets/UI/Prefabs"
+	]
+}
